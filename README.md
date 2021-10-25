@@ -1,5 +1,5 @@
 # Hi there ! :clap:
-I'm Théo "jenoh" Mémin, a french developer. I'm actually working for [@motion4ever](https://www.motion4ever.com/ ) since March 18th 2019 as a back-end developer. \
+I'm Théo "jenoh" Mémin, a french developer. I'm actually working for [@soprasteria](https://www.soprasteria.com// ) since October 18th 2021 as a back-end developer. \
 \
 I mainly use javascript/php to type some code on my machine, but I'm not closed to learn another language as long as I take pleasure.\
 \
