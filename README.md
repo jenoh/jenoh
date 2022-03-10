@@ -1,2 +1,2 @@
 # Hi there ! :clap:
-I'm Théo "jenoh" Mémin, a french developer. bruh bruh
+I'm Théo "jenoh" Mémin, another software developer.
