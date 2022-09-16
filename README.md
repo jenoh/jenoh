@@ -7,6 +7,5 @@
 I'm a passionate **software developer** living in **Nantes, France**.
 
 - 💻  [What am I doing ? (**GitHub**, notice: you're already here)](https://github.com/jenoh)
-- 🐦  [What do I think? (**Twitter**)](https://twitter.com/jen0h_)
 - 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://www.linkedin.com/in/th%C3%A9o-m%C3%A9min-76044a158)
 
